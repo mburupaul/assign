@@ -1,5 +1,5 @@
 ul{
-    background-color: orange;
+    background-color: grey;
     color: darkblue;
     overflow: hidden;
 
@@ -17,6 +17,7 @@ li,ul{
     color: #787780;text-decoration: none;
 }
 h1 {
-    background-color: #d3fffc;
+    background-color: black;
     text-align: center;
+    color: white;
 }
